@@ -1,5 +1,5 @@
 <h2 align="center">👋👋 Mingalarbar  👋👋 <br><br> My name is Oo Kyaw Soe.</h2>
-<h3 align="center">I'm studying at University of Computer Studies, Sittway (UCSS).</h3>
+<h3 align="center">I'm a Student from University of Computer Studies, Sittway (UCSS).</h3>
 <hr>
 <h3 align="center">You Can Reach Me Via </h3>
 <p align="center">
