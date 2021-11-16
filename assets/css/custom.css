@@ -1,0 +1,16 @@
+.organization {
+    font-size: .85em;
+    background-color: #9e9e9e;
+    color: #fff;
+    padding: 2px 8px;
+    margin: 0 100px;
+    border-radius: 2em;
+    text-align: center;
+}
+
+.avatar{
+ display: inline;
+}
+.skills{
+  padding-left: 30px;
+}
