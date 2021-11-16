@@ -10,8 +10,8 @@
   position: fixed;
   top: 0;
   left: 0;
-  background-color: darkslateblue;
-  /* background-image: url('/assets/img/OKEq.gif'); */
+  /* background-color: darkslateblue; */
+  background-image: url('/assets/img/bgone.jpg');
   display: flex;
   align-items: center;
   text-align: center;
