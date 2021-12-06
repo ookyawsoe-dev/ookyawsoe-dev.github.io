@@ -23,15 +23,21 @@
                 <ul class="nav navbar-nav ml-auto">
                     <li class="nav-item" role="presentation"><a class="nav-link" href="index.html" style="width: 100px;">Home</a></li>
                     <li class="nav-item" role="presentation"><a class="nav-link" href="projects.html" style="width: 100px;">Projects</a></li>
-                    <li class="nav-item" role="presentation"><a class="nav-link" href="cv.html" style="width: 100px;">CV</a></li>
                     <li class="nav-item" role="presentation">
-                        <a class="nav-link" href="cv.html#education" style="width: 100px;">Education</a>
+                        <div class="dropdown">
+                            <button class="btn text-white dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                              CV
+                            </button>
+                            <div class="dropdown-menu dropdown bg-dark" aria-labelledby="dropdownMenuButton">
+                              <a class="dropdown-item  bg-dark text-white" href="cv.html">Home</a>                            
+                              <a class="dropdown-item  bg-dark text-white" href="cv.html#education">Education</a>
+                              <a class="dropdown-item bg-dark text-white" href="cv.html#skills">Skills</a>
+                              <a class="dropdown-item bg-dark text-white" href="cv.html#contact">Contact</a>
+                            </div>
+                          </div>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <a class="nav-link" href="cv.html#skills" style="width: 100px;">Skills</a>
-                    </li>
-                    <li class="nav-item" role="presentation">
-                        <a class="nav-link" href="cv.html#contact">Contact</a>
+                        <a class="nav-link" href="#" style="width: 100px;"></a>
                     </li>
                 </ul>
             </div>
