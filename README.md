@@ -12,4 +12,4 @@
 </p>
 
 <h2 align="center">VIEW ON GITHUB PAGE</h2>
-<p align="center">https://ookyawsoe-dev.github.io/ookyawsoe-ucss.github.io/</p>
+<p align="center">https://ookyawsoe-dev.github.io/</p>
